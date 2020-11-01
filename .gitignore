@@ -1,0 +1,13 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+*.pyo
+*.orig
+*.pem
+*.swp
+
+.vscode/
+zappawest/__pycache__/
+zappawest/media/
+zappawest/db.sqlite3
